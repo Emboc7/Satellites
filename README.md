@@ -14,4 +14,4 @@ en una composición que compara sus tamaños con el tamaño de Júpiter.
 En orden descendente, son *Ío*, *Europa*, *Ganimedes* y *Calisto*.
 
 
-Agregado
+![Manuel](manu.png)
